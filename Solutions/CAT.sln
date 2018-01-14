@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAT", "..\CAT\CAT.csproj", "{81035701-4903-4318-9EE0-8671605D7471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATObjects", "..\CATObjects\CATObjects.csproj", "{1C22E32C-B8A8-46BB-A6D0-668EEF4D4ED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{81035701-4903-4318-9EE0-8671605D7471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81035701-4903-4318-9EE0-8671605D7471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81035701-4903-4318-9EE0-8671605D7471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C22E32C-B8A8-46BB-A6D0-668EEF4D4ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C22E32C-B8A8-46BB-A6D0-668EEF4D4ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C22E32C-B8A8-46BB-A6D0-668EEF4D4ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C22E32C-B8A8-46BB-A6D0-668EEF4D4ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

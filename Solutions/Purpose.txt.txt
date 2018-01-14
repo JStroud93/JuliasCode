@@ -1,0 +1,1 @@
+Folder containing .sln files for the projects in this repository.
